@@ -5,5 +5,6 @@ public class Testjava {
         System.out.println("hello");
         System.out.println("11111");
         System.out.println("push commit");
+        System.out.println("pull commit");
     }
 }
